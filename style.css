@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(255, 0, 13);
+    color: ghostwhite;
+}
+
+.heading{
+    font-size: 25px;
+    width: 50%;
+    color: whitesmoke;
+}
+
+.ObjectNames{
+    color: rgb(211, 85, 154);
+    width: 10%;
+}
